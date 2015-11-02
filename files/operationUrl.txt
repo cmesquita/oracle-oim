@@ -1,0 +1,4 @@
+dn: cn=OperationURLs,cn=DAS,cn=Products,cn=OracleContext
+changetype: modify
+replace: orcldasurlbase
+orcldasurlbase: http://oas-localhost/
